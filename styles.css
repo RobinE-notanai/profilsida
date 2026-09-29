@@ -1,0 +1,13 @@
+h1 {color :red}
+body {
+    color: #172026;
+    background-color: rgb(1, 255, 128);
+}
+label {
+    line-height: 1.5;
+    text-align: left;
+}
+body {
+    font-family: system-ui, sans-serif;
+}
+
